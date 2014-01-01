@@ -1,0 +1,18 @@
+body {background-color: black;}
+p {color:#3399FF;}
+h1 {color:#999999;}
+.col-md-6 a:hover {background-color:#3399FF;}
+.col-xs-6 a:hover {background-color:#3399FF;}
+#top{
+	position: relative;
+	width:100%;
+	height:250px;
+}
+.jumbotron{
+	background: url("http://brilliantlyblunt.com/wp-content/uploads/2012/12/tumblr_mdtam7PSGO1rn57zco1_1280.jpg");
+	color: #999999;
+}
+#footer-img{
+	position: absolute;
+	width: 100%;
+}
